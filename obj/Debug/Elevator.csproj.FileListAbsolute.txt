@@ -1,0 +1,10 @@
+D:\C# assignment\Elevator\Elevator\obj\Debug\Elevator.csproj.AssemblyReference.cache
+D:\C# assignment\Elevator\Elevator\obj\Debug\Elevator.Form1.resources
+D:\C# assignment\Elevator\Elevator\obj\Debug\Elevator.Properties.Resources.resources
+D:\C# assignment\Elevator\Elevator\obj\Debug\Elevator.csproj.GenerateResource.cache
+D:\C# assignment\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+D:\C# assignment\Elevator\Elevator\bin\Debug\Elevator.exe.config
+D:\C# assignment\Elevator\Elevator\bin\Debug\Elevator.exe
+D:\C# assignment\Elevator\Elevator\bin\Debug\Elevator.pdb
+D:\C# assignment\Elevator\Elevator\obj\Debug\Elevator.exe
+D:\C# assignment\Elevator\Elevator\obj\Debug\Elevator.pdb

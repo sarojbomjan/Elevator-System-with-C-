@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# assignment\\Elevator\\Elevator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|d:\\c# assignment\\elevator\\elevator\\idoorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:idoorstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\dooridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:dooridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\iliftstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:iliftstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\closingdoorstate_top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:closingdoorstate_top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\closingdoorstate_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:closingdoorstate_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\openingdoorstate_top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:openingdoorstate_top.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\openingdoorstate_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:openingdoorstate_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\movingdownstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:movingdownstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\movingupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:movingupstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|D:\\C# assignment\\Elevator\\Elevator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C4153C-7ACD-4F49-8EB6-90424DC9D79E}|Elevator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\Door.cs",
+              "RelativeDocumentMoniker": "Door.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\Door.cs",
+              "RelativeToolTip": "Door.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:30:02.408Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAQwFUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:13:52.396Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDoorState.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\IDoorState.cs",
+              "RelativeDocumentMoniker": "IDoorState.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\IDoorState.cs",
+              "RelativeToolTip": "IDoorState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:21:29.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILiftState.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\ILiftState.cs",
+              "RelativeDocumentMoniker": "ILiftState.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\ILiftState.cs",
+              "RelativeToolTip": "ILiftState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:56:48.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T10:52:14.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorIdleState.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\DoorIdleState.cs",
+              "RelativeDocumentMoniker": "DoorIdleState.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\DoorIdleState.cs",
+              "RelativeToolTip": "DoorIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:55:12.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\IdleState.cs",
+              "RelativeDocumentMoniker": "IdleState.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\IdleState.cs",
+              "RelativeToolTip": "IdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:03:33.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClosingDoorState_Top.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\ClosingDoorState_Top.cs",
+              "RelativeDocumentMoniker": "ClosingDoorState_Top.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\ClosingDoorState_Top.cs",
+              "RelativeToolTip": "ClosingDoorState_Top.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:36:39.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClosingDoorState_Ground.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\ClosingDoorState_Ground.cs",
+              "RelativeDocumentMoniker": "ClosingDoorState_Ground.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\ClosingDoorState_Ground.cs",
+              "RelativeToolTip": "ClosingDoorState_Ground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:26:34.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OpeningDoorState_Top.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\OpeningDoorState_Top.cs",
+              "RelativeDocumentMoniker": "OpeningDoorState_Top.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\OpeningDoorState_Top.cs",
+              "RelativeToolTip": "OpeningDoorState_Top.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:09:32.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:34:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovingDownState.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\MovingDownState.cs",
+              "RelativeDocumentMoniker": "MovingDownState.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\MovingDownState.cs",
+              "RelativeToolTip": "MovingDownState.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:08:14.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpeningDoorState_Ground.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\OpeningDoorState_Ground.cs",
+              "RelativeDocumentMoniker": "OpeningDoorState_Ground.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\OpeningDoorState_Ground.cs",
+              "RelativeToolTip": "OpeningDoorState_Ground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:28:47.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovingUpState.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\MovingUpState.cs",
+              "RelativeDocumentMoniker": "MovingUpState.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\MovingUpState.cs",
+              "RelativeToolTip": "MovingUpState.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:58:38.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lift.cs",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\Lift.cs",
+              "RelativeDocumentMoniker": "Lift.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\Lift.cs",
+              "RelativeToolTip": "Lift.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:43:57.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# assignment\\Elevator\\Elevator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C# assignment\\Elevator\\Elevator\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:13:28.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
